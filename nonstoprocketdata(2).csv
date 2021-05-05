@@ -1,0 +1,30 @@
+﻿Continent,Country,patient
+Asia,Thailand,1
+Asia,Malaysia,2
+Asia,Japan,3
+Asia,Indonesia,4
+Asia,Singapore,5
+Asia,China,6
+Asia,India,7
+Asia,Russia,8
+Middle East,Syria,1
+Middle East,Iraq,2
+Middle East,Saudi Arabia,3
+Middle East,Turkey,4
+Oceania,New Zealand,1
+Oceania,Australia,2
+Europe,France,1
+Europe,Germany,2
+Europe,Spain,3
+Europe,Italy,4
+Europe,UK,5
+North America,Canada,1
+North America,USA,2
+South America,Argentina,1
+South America,Mexico,2
+South America,Brazil,3
+Africa,Central African Republic,1
+Africa,Congo,2
+Africa,Chad,3
+Africa,Guinea,4
+Africa,Sudan,5

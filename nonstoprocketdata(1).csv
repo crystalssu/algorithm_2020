@@ -1,0 +1,30 @@
+﻿Continent,Country,Fatality
+Asia,Indonesia,1
+Asia,China,2
+Asia,Japan,3
+Asia,India,4
+Asia,Thailand,5
+Asia,Malaysia,6
+Asia,Russia,7
+Asia,Singapore,8
+Middle East,Syria,1
+Middle East,Iraq,2
+Middle East,Turkey,3
+Middle East,Saudi Arabia,4
+Oceania,New Zealand,1
+Oceania,Australia,2
+Europe,France,1
+Europe,Italy,2
+Europe,UK,3
+Europe,Spain,4
+Europe,Germany,5
+North America,Canada,1
+North America,USA,2
+South America,Mexico,1
+South America,Brazil,2
+South America,Argentina,3
+Africa,Chad,1
+Africa,Congo,2
+Africa,Sudan,3
+Africa,Guinea,4
+Africa,Central African Republic,5

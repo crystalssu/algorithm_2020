@@ -1,0 +1,30 @@
+﻿Continent,Country,medical level
+Asia,India,1
+Asia,Russia,2
+Asia,China,3
+Asia,Indonesia,4
+Asia,Singapore,5
+Asia,Japan,6
+Asia,Malaysia,7
+Asia,Thailand,8
+Middle East,Iraq,1
+Middle East,Syria,2
+Middle East,Saudi Arabia,3
+Middle East,Turkey,4
+Oceania,New Zealand,1
+Oceania,Australia,2
+Europe,Italy,1
+Europe,Spain,2
+Europe,Germany,3
+Europe,France,4
+Europe,UK,5
+North America,Canada,1
+North America,USA,2
+South America,Mexico,1
+South America,Argentina,2
+South America,Brazil,3
+Africa,Central African Republic,1
+Africa,Sudan,2
+Africa,Chad,3
+Africa,Congo,4
+Africa,Guinea,5
